@@ -1,3 +1,4 @@
+
 "use client";
 
 import Image from "next/image";
@@ -38,7 +39,7 @@ const projects: Project[] = [
     subtitle: "Sports & Outdoor Gear Rental",
     description:
       "A sports and outdoor equipment rental platform where customers can discover and rent gear while providers manage their rental offerings.",
-    image: "/gearup.png",
+    image: "/gearup.PNG",
     technologies: [
       { name: "Next.js", icon: <SiNextdotjs /> },
       { name: "TypeScript", icon: <SiTypescript /> },
@@ -58,7 +59,7 @@ const projects: Project[] = [
     subtitle: "Pet Care & Adoption Platform",
     description:
       "A pet care platform designed to help users explore pets, discover adoption opportunities, and access pet-related services.",
-    image: "/warmpaws.png",
+    image: "/warmpaws.PNG",
     technologies: [
       { name: "Next.js", icon: <SiNextdotjs /> },
       { name: "TypeScript", icon: <SiTypescript /> },
@@ -74,7 +75,7 @@ const projects: Project[] = [
     subtitle: "Programming Hero — Level 1",
     description:
       "A student scholarship management project developed as part of Programming Hero Level 1.",
-    image: "/scholarship.png",
+    image: "/scholarship.PNG",
     technologies: [
       { name: "JavaScript", icon: <SiJavascript /> },
       { name: "React", icon: <FaReact /> },
