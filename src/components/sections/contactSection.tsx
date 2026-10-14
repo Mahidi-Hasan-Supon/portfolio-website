@@ -8,15 +8,15 @@ export default function ContactSection() {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12 text-center">
         <div className="bg-slate-900 border border-slate-800 p-6 rounded-2xl">
           <h3 className="text-cyan-400 font-bold mb-1">Email</h3>
-          <p className="text-slate-300 text-sm">mahidihasan@gmail.com</p>
+          <p className="text-slate-300 text-sm">mahidihasansupon@gmail.com</p>
         </div>
         <div className="bg-slate-900 border border-slate-800 p-6 rounded-2xl">
           <h3 className="text-cyan-400 font-bold mb-1">Phone</h3>
-          <p className="text-slate-300 text-sm">+880 1XXXXXXXXX</p>
+          <p className="text-slate-300 text-sm">+880 1742169682</p>
         </div>
         <div className="bg-navigation bg-slate-900 border border-slate-800 p-6 rounded-2xl">
           <h3 className="text-cyan-400 font-bold mb-1">WhatsApp</h3>
-          <p className="text-slate-300 text-sm">+880 1XXXXXXXXX</p>
+          <p className="text-slate-300 text-sm">+880 1742169682</p>
         </div>
       </div>
 
